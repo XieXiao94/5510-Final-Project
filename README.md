@@ -21,6 +21,7 @@ Dataset:
 
 The data set is a CSV format. This tabulated data has a data size of 8950 rows and 18 columns.  The data types of the features are 14 float 64, 3 int64, and 1 object.  The features are mainly related to balance, purchases, cash advances, credit limits and payments of credit cards.
 
+The project includes:
 
 1. Load Data
 2. Data Cleaning
