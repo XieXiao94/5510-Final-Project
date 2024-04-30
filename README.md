@@ -17,7 +17,8 @@ The dataset is from a kaggle project named 'Credit Card Dataset for Clustering'.
 Citation:
 Credit card dataset for clustering. (2018, March 2). Kaggle. https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 
-Dataset
+Dataset:
+
 The data set is a CSV format. This tabulated data has a data size of 8950 rows and 18 columns.  The data types of the features are 14 float 64, 3 int64, and 1 object.  The features are mainly related to balance, purchases, cash advances, credit limits and payments of credit cards.
 
 
