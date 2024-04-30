@@ -1,4 +1,5 @@
-About this project
+About this project:
+
 This project is to study 8950 credit card users and 18 credit card usage variables. The goal is to build a model for clustering the users for marketing strategy. The type of learning is unsupervised learning and the type of task is clustering.
 
 
